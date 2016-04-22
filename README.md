@@ -1,6 +1,4 @@
 # Crawler
-### DO Not use this to do illegal stuff...Just for fun...
-
 
 ### TO-DO
    - WeiboCrawler  [X]
